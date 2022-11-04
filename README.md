@@ -8,7 +8,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  HTML5,CSS3,Sass,Scss,Bootstrap,TailwindCss,JavaScript,AlpineJs,React,PHP,Laravel,Livewire,MySql,Git 
+Skills:  HTML5, CSS3, Sass, Scss, Bootstrap, TailwindCss, JavaScript, AlpineJs, React, PHP, Laravel, Livewire, MySql,Git 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning react and react native
 - 📫 How to reach me: hidayet.hidayetov@gmail.com 
