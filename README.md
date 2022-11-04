@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Hidayet
 #### I am full stack developer
 
-![I am full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![Hidayet Hidayetov](https://user-images.githubusercontent.com/16389174/200058895-be78edcf-2ced-44ee-a769-d8b5f85ec12e.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hlife97&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hlife97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
