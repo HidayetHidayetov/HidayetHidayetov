@@ -12,7 +12,6 @@ Skills:  HTML5, CSS3, Sass, Scss, Bootstrap, TailwindCss, JavaScript, AlpineJs, 
 - 📫 How to reach me: hidayet.hidayetov@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Hlife97)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/thehid0/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/hdyt.hov/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://hoverf1.com/)  
