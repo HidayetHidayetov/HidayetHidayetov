@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Firebase, NodeJS**
 
-- 👨‍💻 Soon all my projects will be available at [https://hidayetov.com/](https://hidayetov.com/)
+- 👨‍💻 My projects available at [https://hidayetov.com/](https://hidayetov.com/)
 
 - 📝 I regularly write articles on [https://codebyhidayet.gitbook.io/design-patterns/](https://codebyhidayet.gitbook.io/design-patterns/)
 
