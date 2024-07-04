@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlife97&label=Profile%20views&color=0e75b6&style=flat" alt="hlife97" /> </p>
 
-- 🔭 I’m currently working on [brainpriz](https://brainpriz.com/)
+- 🔭 I’m currently working on [Azerishiq OJSC](https://www.azerishiq.az/)
 
 - 🌱 I’m currently learning **TypeScript, Firebase, NodeJS**
 
