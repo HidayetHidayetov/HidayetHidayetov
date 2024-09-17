@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **codebyhidayet@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/bbIvIfJNq](https://resume.io/r/bbIvIfJNq)
+- 📄 Know about my experiences [https://hidayetov.com/experience](https://hidayetov.com/experience?q=)
 
 - ⚡ Fun fact **!(I'm not funny)**
 
