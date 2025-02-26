@@ -9,7 +9,7 @@
 
 - 👨‍💻 My projects available at [https://hidayetov.com/](https://hidayetov.com/)
 
-- 📝 I regularly write articles on [https://codebyhidayet.gitbook.io/design-patterns/](https://codebyhidayet.gitbook.io/design-patterns/)
+- 📝 I regularly write articles on [https://medium.com/@codebyhidayet](https://medium.com/@codebyhidayet)
 
 - 💬 Ask me about **me 😁**
 
