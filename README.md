@@ -40,7 +40,7 @@ Building scalable web applications with modern technologies.
 
 **Tools & Others**
 
-* Docker, Git, Firebase, Postman, Linux, Figma
+* Docker, Git, Firebase, Supabase
 
 ---
 
