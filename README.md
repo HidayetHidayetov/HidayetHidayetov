@@ -53,7 +53,7 @@ Building scalable web applications with modern technologies.
 
 * Email: [codebyhidayet@gmail.com](mailto:codebyhidayet@gmail.com)
 * LinkedIn: https://linkedin.com/in/hidayet-hidayetov/
-* Instagram: https://instagram.com/thehid0
+* Instagram: https://instagram.com/codebyhidayet
 
 ---
 
