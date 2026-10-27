@@ -10,7 +10,8 @@ Building scalable web applications with modern technologies.
 ### 👨‍💻 About Me
 
 * Full Stack Developer with a focus on building clean and maintainable systems
-* Currently working at **Azerishiq OJSC**
+* Currently working at **Azerishiq OJSC**, based in **Baku, Azerbaijan**
+* Programming instructor — **50+ graduates** (Brainpriz, CyberSecurityLab)
 * Passionate about backend architecture and modern frontend ecosystems
 * Continuously improving skills in **TypeScript**, **Node.js**, and cloud-based solutions
 
@@ -33,6 +34,10 @@ Building scalable web applications with modern technologies.
 **Backend**
 
 * PHP (Laravel), Node.js, Express
+
+**Mobile**
+
+* Flutter, Dart
 
 **Database**
 
